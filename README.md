@@ -152,6 +152,8 @@
 ## 📊 Performance Metrics
 
 <div align="center">
+
+### 📈 Public Repository Stats
   
 <table style="border-radius: 20px; border: 2px solid #1e3a8a; background: linear-gradient(145deg, #0f172a, #1e293b); box-shadow: 0 8px 32px rgba(30, 58, 138, 0.3); overflow: hidden;">
   <tr>
@@ -171,6 +173,29 @@
 <div style="margin: 20px 0;">
   <img src="https://github-profile-trophy.vercel.app/?username=jecoooooy&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=4" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(30, 58, 138, 0.3);" />
 </div>
+
+### 🔒 Private & Enterprise Contributions
+
+<table style="border-radius: 20px; border: 2px solid #1e3a8a; background: linear-gradient(145deg, #0f172a, #1e293b); box-shadow: 0 8px 32px rgba(30, 58, 138, 0.3); overflow: hidden;">
+  <tr>
+    <td width="50%" align="center" style="padding: 25px; border-radius: 18px;">
+      <h4 style="color: #ffffff; margin-bottom: 15px;">🏢 Enterprise Development</h4>
+      <img src="https://img.shields.io/badge/Private_Repositories-15+-1e3a8a?style=for-the-badge&labelColor=0f172a" style="border-radius: 25px; margin: 5px;" /><br>
+      <img src="https://img.shields.io/badge/Organization_Projects-5+-1e3a8a?style=for-the-badge&labelColor=0f172a" style="border-radius: 25px; margin: 5px;" /><br>
+      <img src="https://img.shields.io/badge/Enterprise_Clients-Multiple-1e3a8a?style=for-the-badge&labelColor=0f172a" style="border-radius: 25px; margin: 5px;" />
+    </td>
+    <td width="50%" align="center" style="padding: 25px; border-radius: 18px;">
+      <h4 style="color: #ffffff; margin-bottom: 15px;">👥 Collaboration Impact</h4>
+      <img src="https://img.shields.io/badge/Pull_Requests-200+-1e3a8a?style=for-the-badge&labelColor=0f172a" style="border-radius: 25px; margin: 5px;" /><br>
+      <img src="https://img.shields.io/badge/Code_Reviews-150+-1e3a8a?style=for-the-badge&labelColor=0f172a" style="border-radius: 25px; margin: 5px;" /><br>
+      <img src="https://img.shields.io/badge/Team_Collaborations-Cross--Functional-1e3a8a?style=for-the-badge&labelColor=0f172a" style="border-radius: 25px; margin: 5px;" />
+    </td>
+  </tr>
+</table>
+
+<p align="center" style="color: #94a3b8; font-style: italic; margin-top: 15px;">
+  <em>📝 Note: Private repository contributions and enterprise work are not reflected in public GitHub statistics above.</em>
+</p>
 
 </div>
 
