@@ -164,8 +164,8 @@
   </tr>
 </table>
 
-<div style="margin: 20px 0;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jecoooooy&theme=dark&background=0f172a&ring=1e3a8a&fire=1e3a8a&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff&stroke=1e3a8a&border=1e3a8a&border_radius=15" alt="GitHub Streak" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(30, 58, 138, 0.3);" />
+<div style="margin: 20px 0;" align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jecoooooy&theme=tokyonight" alt="GitHub Streak" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(30, 58, 138, 0.3);" />
 </div>
 
 <div style="margin: 20px 0;">
