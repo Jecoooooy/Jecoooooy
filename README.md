@@ -155,10 +155,10 @@
 
 ### 📈 Public Repository Stats
   
-<table style="border-radius: 20px; border: 2px solid #1e3a8a; background: linear-gradient(145deg, #0f172a, #1e293b); box-shadow: 0 8px 32px rgba(30, 58, 138, 0.3); overflow: hidden;">
+<table style="border-radius: 20px; border: none; background: linear-gradient(145deg, #0f172a, #1e293b); box-shadow: 0 8px 32px rgba(30, 58, 138, 0.3); overflow: hidden;">
   <tr>
     <td align="center" style="padding: 20px;">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jecoooooy&show_icons=true&theme=dark&bg_color=0f172a&title_color=1e3a8a&text_color=ffffff&icon_color=1e3a8a&border_color=1e3a8a&include_all_commits=true&count_private=true&border_radius=15" style="border-radius: 15px;"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jecoooooy&show_icons=true&theme=dark&bg_color=0f172a&title_color=1e3a8a&text_color=ffffff&icon_color=1e3a8a&border_color=1e3a8a&include_all_commits=true&count_private=true&border_radius=15"  />
     </td>
     <td align="center" style="padding: 20px;">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jecoooooy&layout=compact&langs_count=8&theme=dark&bg_color=0f172a&title_color=1e3a8a&text_color=ffffff&border_color=1e3a8a&border_radius=15" style="border-radius: 15px;"/>
@@ -170,9 +170,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jecoooooy&theme=tokyonight" alt="GitHub Streak" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(30, 58, 138, 0.3);" />
 </div>
 
-<div style="margin: 20px 0;">
-  <img src="https://github-profile-trophy.vercel.app/?username=jecoooooy&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=4" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(30, 58, 138, 0.3);" />
-</div>
+
 
 ### 🔒 Private & Enterprise Contributions
 
