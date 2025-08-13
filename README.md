@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,9,20,25,30&height=280&section=header&text=Hi%20there,%20I'm%20Jerico%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=51&descAlign=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,9,20,25,30&height=280&section=header&text=Hi%20there,%20I'm%20Jecoooooy%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=51&descAlign=62"/>
 </div>
 
 <div align="center">
