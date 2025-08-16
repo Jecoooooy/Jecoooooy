@@ -121,34 +121,6 @@
 
 ---
 
-## 🎯 Beyond The Code
-
-<div align="center">
-
-<table style="border-radius: 20px; border: 2px solid #1e3a8a; background: linear-gradient(145deg, #0f172a, #1e293b); box-shadow: 0 8px 32px rgba(30, 58, 138, 0.3); overflow: hidden;">
-  <tr>
-    <td width="50%" align="center" style="padding: 25px; border-radius: 18px;">
-      <h3 style="color: #ffffff; margin-bottom: 20px;">💪 Active Pursuits</h3>
-      <img src="https://img.shields.io/badge/🏋️_Weight_Training-1e3a8a?style=for-the-badge&labelColor=0f172a" style="border-radius: 25px; margin: 5px;" /><br>
-      <img src="https://img.shields.io/badge/🏔️_Hiking_&_Camping-1e3a8a?style=for-the-badge&labelColor=0f172a" style="border-radius: 25px; margin: 5px;" /><br>
-      <img src="https://img.shields.io/badge/🏍️_Motorcycle_Riding-1e3a8a?style=for-the-badge&labelColor=0f172a" style="border-radius: 25px; margin: 5px;" /><br>
-      <img src="https://img.shields.io/badge/🍖_Food_Exploration-1e3a8a?style=for-the-badge&labelColor=0f172a" style="border-radius: 25px; margin: 5px;" /><br>
-      <img src="https://img.shields.io/badge/💪_Fitness_Coaching-1e3a8a?style=for-the-badge&labelColor=0f172a" style="border-radius: 25px; margin: 5px;" />
-    </td>
-    <td width="50%" align="center" style="padding: 25px; border-radius: 18px;">
-      <h3 style="color: #ffffff; margin-bottom: 20px;">🏢 Business & Creative</h3>
-      <img src="https://img.shields.io/badge/🎨_Design_Innovation-1e3a8a?style=for-the-badge&labelColor=0f172a" style="border-radius: 25px; margin: 5px;" /><br>
-      <img src="https://img.shields.io/badge/🌍_Travel_Adventures-1e3a8a?style=for-the-badge&labelColor=0f172a" style="border-radius: 25px; margin: 5px;" /><br>
-      <img src="https://img.shields.io/badge/📸_Content_Creation-1e3a8a?style=for-the-badge&labelColor=0f172a" style="border-radius: 25px; margin: 5px;" /><br>
-      <img src="https://img.shields.io/badge/🏋️_Gym_Business_Owner-1e3a8a?style=for-the-badge&labelColor=0f172a" style="border-radius: 25px; margin: 5px;" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
 ## 📊 Performance Metrics
 
 <div align="center">
