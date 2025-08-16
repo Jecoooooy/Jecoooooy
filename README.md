@@ -11,17 +11,15 @@
 <br>
 
 <div align="center">
-  <table style="border-radius: 20px; border: 2px solid #1e3a8a; background: linear-gradient(145deg, #0f172a, #1e293b); box-shadow: 0 8px 32px rgba(30, 58, 138, 0.3);">
-    <tr>
-      <td align="center" width="100%" style="padding: 25px; border-radius: 18px;">
-        <h3 style="color: #ffffff; margin-bottom: 15px;">💼 Professional Overview</h3>
-        <p style="color: #e2e8f0;"><strong>💻 Full Stack Web Developer</strong> — specializing in <strong>Front-End Development</strong></p>
-        <p style="color: #e2e8f0;">🎨 I design my own interfaces and confidently turn ideas into fully functional products.</p>
-        <p style="color: #e2e8f0;">🚀 Currently <strong>Front-End Developer Lead</strong> at <strong>Apollo System</strong>, leading development, contributing to backend tasks, and designing product advertisements.</p>
-      </td>
-    </tr>
-  </table>
+   <p style="color: #e2e8f0;"> Creative and innovative Full Stack Web Developer specializing in frontend 
+development with Vue.js, Nuxt.js, TypeScript, and modern web technologies. Backend 
+experience with PHP Laravel and GraphQL. I excel at creating intuitive, responsive user 
+interfaces that bridge design and functionality, delivering high-performance web 
+applications with seamless user experiences.
+        </p>
+        <p style="color: #e2e8f0;">🚀 Currently <strong>Front-End Developer</strong> at <strong>Apollo System</strong>, leading development, contributing to backend tasks, and designing product advertisements.</p>
 </div>
+
 
 ---
 
@@ -125,19 +123,6 @@
 
 <div align="center">
 
-### 📈 Public Repository Stats
-  
-<table style="border-radius: 20px; border: none; background: linear-gradient(145deg, #0f172a, #1e293b); box-shadow: 0 8px 32px rgba(30, 58, 138, 0.3); overflow: hidden;">
-  <tr>
-    <td align="center" style="padding: 20px;">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jecoooooy&show_icons=true&theme=dark&bg_color=0f172a&title_color=1e3a8a&text_color=ffffff&icon_color=1e3a8a&border_color=1e3a8a&include_all_commits=true&count_private=true&border_radius=15"  />
-    </td>
-    <td align="center" style="padding: 20px;">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jecoooooy&layout=compact&langs_count=8&theme=dark&bg_color=0f172a&title_color=1e3a8a&text_color=ffffff&border_color=1e3a8a&border_radius=15" style="border-radius: 15px;"/>
-    </td>
-  </tr>
-</table>
-
 <div style="margin: 20px 0;" align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jecoooooy&theme=tokyonight" alt="GitHub Streak" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(30, 58, 138, 0.3);" />
 </div>
@@ -163,31 +148,6 @@
   </tr>
 </table>
 
-<p align="center" style="color: #94a3b8; font-style: italic; margin-top: 15px;">
-  <em>📝 Note: Private repository contributions and enterprise work are not reflected in public GitHub statistics above.</em>
-</p>
-
-</div>
-
----
-
-## 🤝 Professional Network
-
-<div align="center">
-  <table style="border-radius: 20px; border: 2px solid #1e3a8a; background: linear-gradient(145deg, #0f172a, #1e293b); box-shadow: 0 8px 32px rgba(30, 58, 138, 0.3); overflow: hidden;">
-    <tr>
-      <td align="center" style="padding: 15px;">
-        <a href="https://www.linkedin.com/in/jerico-bencito-36465831a/">
-          <img src="https://img.shields.io/badge/LinkedIn-1e3a8a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a" style="border-radius: 25px; margin: 10px;" />
-        </a>
-      </td>
-      <td align="center" style="padding: 15px;">
-        <a href="mailto:bencitojerico@gmail.com">
-          <img src="https://img.shields.io/badge/Email-1e3a8a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" style="border-radius: 25px; margin: 10px;" />
-        </a>
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
