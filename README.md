@@ -23,37 +23,32 @@ applications with seamless user experiences.
 
 ---
 
-## ⚡ Tech Arsenal
 
 <div align="center">
 
-### 🛠️ Core Technologies
-<table style="border-radius: 20px; border: 2px solid #1e3a8a; background: linear-gradient(145deg, #0f172a, #1e293b); box-shadow: 0 8px 32px rgba(30, 58, 138, 0.3); overflow: hidden;">
-  <tr>
-    <td align="center" width="50%" style="padding: 20px; border-radius: 18px;">
-      <h4 style="color: #ffffff; margin-bottom: 15px;">🌐 Languages & Frameworks</h4>
-      <img src="https://skillicons.dev/icons?i=html,css,js,vue,nuxt,php,laravel&theme=dark" style="border-radius: 15px;" />
-    </td>
-    <td align="center" width="50%" style="padding: 20px; border-radius: 18px;">
-      <h4 style="color: #ffffff; margin-bottom: 15px;">🗄️ Database Systems</h4>
-      <img src="https://img.shields.io/badge/MySQL-1e3a8a?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0f172a" style="border-radius: 25px;" />
-    </td>
-  </tr>
-</table>
-
-### 🎨 Design & UI Frameworks
+### 🌐 Languages & Frameworks
 <p align="center">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-1e3a8a?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0f172a" style="border-radius: 25px; margin: 5px;" />
-  <img src="https://img.shields.io/badge/shadcn_ui-1e3a8a?style=for-the-badge&logo=shadcnui&logoColor=white&labelColor=0f172a" style="border-radius: 25px; margin: 5px;" />
-  <img src="https://img.shields.io/badge/Vuetify-1e3a8a?style=for-the-badge&logo=vuetify&logoColor=white&labelColor=0f172a" style="border-radius: 25px; margin: 5px;" />
-  <img src="https://img.shields.io/badge/Bootstrap-1e3a8a?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0f172a" style="border-radius: 25px; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,nuxt,php,laravel" />
 </p>
 
-### 🎯 Creative Tools
+### 🎨 UI Libraries & Styling
 <p align="center">
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-1e3a8a?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=0f172a" style="border-radius: 25px; margin: 5px;" />
-  <img src="https://img.shields.io/badge/SketchUp-1e3a8a?style=for-the-badge&logo=sketchup&logoColor=white&labelColor=0f172a" style="border-radius: 25px; margin: 5px;" />
-  <img src="https://img.shields.io/badge/Blender-1e3a8a?style=for-the-badge&logo=blender&logoColor=white&labelColor=0f172a" style="border-radius: 25px; margin: 5px;" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn_ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### 🔧 Design & 3D Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
 </p>
 
 </div>
