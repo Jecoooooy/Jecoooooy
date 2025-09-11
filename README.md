@@ -23,97 +23,6 @@ applications with seamless user experiences.
 
 ---
 
-
-<div align="center">
-
-### 🌐 Languages & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,nuxt,php,laravel" />
-</p>
-
-### 🎨 UI Libraries & Styling
-<p align="center">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/shadcn_ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
-
-### 🗄️ Databases
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### 🔧 Design & 3D Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-</p>
-
-</div>
-
----
-
-## 🏢 Professional Journey
-
-<div align="center">
-
-<table style="border-radius: 20px; border: 2px solid #1e3a8a; background: linear-gradient(145deg, #0f172a, #1e293b); box-shadow: 0 8px 32px rgba(30, 58, 138, 0.3); overflow: hidden;">
-  <thead>
-    <tr style="background: linear-gradient(145deg, #1e3a8a, #3730a3);">
-      <th style="padding: 15px; color: #ffffff; border-radius: 18px 0 0 0;">🎯 Position</th>
-      <th style="padding: 15px; color: #ffffff;">🏪 Organization</th>
-      <th style="padding: 15px; color: #ffffff;">📅 Timeline</th>
-      <th style="padding: 15px; color: #ffffff; border-radius: 0 18px 0 0;">⚡ Key Achievements</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="padding: 20px; color: #e2e8f0;"><strong>🚀 Front-End Developer Lead</strong></td>
-      <td align="center" style="padding: 20px; color: #e2e8f0;">Apollo Lightings Inc /<br>Apollo Systems</td>
-      <td align="center" style="padding: 20px; color: #e2e8f0;">Dec 2024 – Present</td>
-      <td align="left" style="padding: 20px; color: #e2e8f0;">
-        <strong>• Leading front-end development initiatives</strong><br>
-        • Building scalable, reusable component libraries<br>
-        • Performance optimization & UX/UI enhancement<br>
-        • Asset design and seamless integration<br>
-        • Git-based collaborative development<br>
-        • Backend development (Laravel + GraphQL)<br>
-        • Product catalogue & sales module improvements
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 20px; color: #e2e8f0;"><strong>💻 Full Stack Developer</strong><br><small>(Office Staff)</small></td>
-      <td align="center" style="padding: 20px; color: #e2e8f0;">HRD Singapore Pte., Ltd.<br><small>Housing/Production Industry</small></td>
-      <td align="center" style="padding: 20px; color: #e2e8f0;">Jan 2024 – Oct 2024</td>
-      <td align="left" style="padding: 20px; color: #e2e8f0;">
-        <strong>• Full-stack web application development</strong><br>
-        • Legacy system migration (XPA → Web-based)<br>
-        • Multi-server database management<br>
-        • User control & management systems<br>
-        <strong>🛠️ Stack:</strong> Laravel 8/9, Vue 2/3, Pinia, Vuetify 2/3, MySQL
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 20px; color: #e2e8f0;"><strong>🌱 Web Developer Intern</strong></td>
-      <td align="center" style="padding: 20px; color: #e2e8f0;">Alta Philippines I.T. Solutions<br>and Web Page Design Inc.</td>
-      <td align="center" style="padding: 20px; color: #e2e8f0;">Jun 2019 – Jul 2019</td>
-      <td align="left" style="padding: 20px; color: #e2e8f0; border-radius: 0 0 18px 0;">
-        <strong>• Prototype web development</strong><br>
-        • Responsive design implementation<br>
-        • Multi-platform deployment experience<br>
-        • International team collaboration (Japan branch)<br>
-        <strong>🛠️ Tech:</strong> HTML, CSS, Bootstrap, JavaScript, WordPress
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-</div>
-
----
-
 ## 📊 Performance Metrics
 
 <div align="center">
@@ -146,6 +55,39 @@ applications with seamless user experiences.
 </div>
 
 ---
+
+<div align="center">
+
+### 🌐 Languages & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,nuxt,php,laravel" />
+</p>
+
+### 🎨 UI Libraries & Styling
+<p align="center">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn_ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### 🔧 Design & 3D Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+</p>
+
+</div>
+
+---
+
+
 
 <div align="center">
 
